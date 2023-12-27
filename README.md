@@ -1,4 +1,4 @@
-<h1 align="center">Salutations, I go by the name Brandon</h1>
+<h1 align="center">Hello There, I go by the name Brandon</h1>
 <h3 align="center">An enthusiastic software developer from Philadelphia</h3>
 
 - 🔭 I’m currently working on [MangaJozu](https://github.com/BrandonCarp/MangaJozu)
