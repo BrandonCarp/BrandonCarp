@@ -1,13 +1,13 @@
 <h1 align="center">Hello There, I go by the name Brandon</h1>
 <h3 align="center">An enthusiastic software developer from Philadelphia</h3>
 
-- 🔭 I’m currently working on [MangaJozu](https://github.com/BrandonCarp/MangaJozu)
+- 🔭 I’m currently working on [ZenMindset](https://github.com/BrandonCarp/zenmindsetBackend)
 
-- 🤝 I’m looking for help with landing a junior role! [Reach me here](https://www.linkedin.com/in/bran-carp/)
+- 🤝 Have a role I could be of help with ? [Reach me here](https://www.linkedin.com/in/brandon-carpenter-103581327/)
 
 - 👨‍💻 All of my projects are available at [https://brandoncarp.netlify.app/](https://brandoncarp.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/bran-carp/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
